@@ -1,0 +1,20 @@
+﻿<Window x:Class="PIM4ADS4182.Apresentacao.frmDuvidasFrequentes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PIM4ADS4182.Apresentacao"
+        mc:Ignorable="d"
+        Title="frmDuvidasFrequentes" Height="760" Width="800">
+    <Grid x:Name="frmDuvidasFrequentes1" Background="#FF143061">
+        <Button x:Name="btnVoltarDF" Content="Voltar" HorizontalAlignment="Left" Margin="10,658,0,0" VerticalAlignment="Top" Width="141" Height="61" FontSize="18" Click="btnVoltarDF_Click"/>
+        <Label Content="Dúvidas Frequentes" Margin="282,10,282,664" FontSize="24" Background="#00000000" Foreground="#FFCFD800"/>
+        <Label Content="1. Dúvida : -----------------" HorizontalAlignment="Left" Margin="113,64,0,0" VerticalAlignment="Top" Foreground="Black" Background="White" Width="566"/>
+        <Label Content="Resposta : " HorizontalAlignment="Left" Margin="113,95,0,0" VerticalAlignment="Top" Height="46" Width="566" Background="White"/>
+        <Label Content="2. Dúvida : -----------------" HorizontalAlignment="Left" Margin="113,163,0,0" VerticalAlignment="Top" Width="566" Background="White"/>
+        <Label Content="Resposta : " HorizontalAlignment="Left" Margin="113,194,0,0" VerticalAlignment="Top" Height="50" Width="566" Background="White"/>
+        <Label Content="3. Dúvida : -----------------" HorizontalAlignment="Left" Margin="113,271,0,0" VerticalAlignment="Top" Background="White" Width="566"/>
+        <Label Content="Resposta : " HorizontalAlignment="Left" Margin="113,302,0,0" VerticalAlignment="Top" Height="47" Width="566" Background="White"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,101 @@
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\bin\Debug\PIM4ADS4182.exe.config
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\bin\Debug\PIM4ADS4182.exe
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\bin\Debug\PIM4ADS4182.pdb
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.csprojAssemblyReference.cache
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmDuvidasFrequentes.g.cs
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\MainWindow.g.cs
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\obj\Debug\App.g.cs
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182_MarkupCompile.cache
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182_MarkupCompile.lref
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmDuvidasFrequentes.baml
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\MainWindow.baml
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.g.resources
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.Properties.Resources.resources
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.csproj.GenerateResource.cache
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.csproj.CoreCompileInputs.cache
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.exe
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.pdb
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmJanelaDeEnvio.g.cs
+C:\Users\hualt\source\repos\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmJanelaDeEnvio.baml
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\bin\Debug\PIM4ADS4182.exe.config
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.exe
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.pdb
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\bin\Debug\PIM4ADS4182.exe
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\bin\Debug\PIM4ADS4182.pdb
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\bin\Debug\mscorlib.dll
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\bin\Debug\normidna.nlp
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\bin\Debug\normnfc.nlp
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\bin\Debug\normnfd.nlp
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\bin\Debug\normnfkc.nlp
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\bin\Debug\normnfkd.nlp
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.csprojResolveAssemblyReference.cache
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmDuvidasFrequentes.g.cs
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmJanelaDeEnvio.g.cs
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\MainWindow.g.cs
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\App.g.cs
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182_MarkupCompile.cache
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182_MarkupCompile.lref
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmDuvidasFrequentes.baml
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmJanelaDeEnvio.baml
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\MainWindow.baml
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.g.resources
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.Properties.Resources.resources
+C:\Users\mobile\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.csproj.GenerateResource.Cache
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\bin\Debug\PIM4ADS4182.exe.config
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\bin\Debug\PIM4ADS4182.exe
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\bin\Debug\PIM4ADS4182.pdb
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.csprojAssemblyReference.cache
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmDuvidasFrequentes.g.cs
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmJanelaDeEnvio.g.cs
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\MainWindow.g.cs
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\App.g.cs
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182_MarkupCompile.cache
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182_MarkupCompile.lref
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmDuvidasFrequentes.baml
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmJanelaDeEnvio.baml
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\MainWindow.baml
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.g.resources
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.Properties.Resources.resources
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.csproj.GenerateResource.cache
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.csproj.CoreCompileInputs.cache
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.exe
+C:\Users\hualt\Desktop\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.pdb
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\bin\Debug\PIM4ADS4182.exe.config
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\bin\Debug\PIM4ADS4182.exe
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\bin\Debug\PIM4ADS4182.pdb
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.csprojAssemblyReference.cache
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmDuvidasFrequentes.g.cs
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmJanelaDeEnvio.g.cs
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\MainWindow.g.cs
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\obj\Debug\App.g.cs
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182_MarkupCompile.cache
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182_MarkupCompile.lref
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmDuvidasFrequentes.baml
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmJanelaDeEnvio.baml
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\MainWindow.baml
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.g.resources
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.Properties.Resources.resources
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.csproj.GenerateResource.cache
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.csproj.CoreCompileInputs.cache
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.exe
+C:\Users\bruun\OneDrive\Área de Trabalho\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.pdb
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\bin\Debug\PIM4ADS4182.exe.config
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\bin\Debug\PIM4ADS4182.exe
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\bin\Debug\PIM4ADS4182.pdb
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.csprojAssemblyReference.cache
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmDuvidasFrequentes.g.cs
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmJanelaDeEnvio.g.cs
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\MainWindow.g.cs
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\obj\Debug\App.g.cs
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182_MarkupCompile.cache
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182_MarkupCompile.lref
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmDuvidasFrequentes.baml
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\frmJanelaDeEnvio.baml
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\obj\Debug\Apresentacao\MainWindow.baml
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.g.resources
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.Properties.Resources.resources
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.csproj.GenerateResource.cache
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.csproj.CoreCompileInputs.cache
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.exe
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\PIM4ADS4182\PIM4ADS4182\obj\Debug\PIM4ADS4182.pdb
