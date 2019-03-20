@@ -1,0 +1,13 @@
+create database ouvidoria;
+
+create table registroDuvidas(
+	id int identity,
+	nome varchar(100),
+	ra varchar(7),
+	cpf varchar(11),
+	assunto varchar(100),
+	email varchar(100),
+	texto varchar(500),
+	Primary Key (id)
+);
+
