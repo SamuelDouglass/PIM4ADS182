@@ -1,0 +1,31 @@
+﻿<Window x:Class="TelaAdmOuvidoria.Apresentacao.frmPCPI"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TelaAdmOuvidoria.Apresentacao"
+        mc:Ignorable="d"
+        Title="frmPCPI" Height="760" Width="800">
+    <Grid Background="#FF143061">
+        <Button x:Name="btnResponder" Content="Responder Dúvida" HorizontalAlignment="Left" Margin="648,664,0,0" VerticalAlignment="Top" Width="134" Height="55" Click="btnResponder_Click" />
+        <Button x:Name="btnVoltar" Content="Voltar" HorizontalAlignment="Left" Margin="10,664,0,0" VerticalAlignment="Top" Width="132" Height="55" Click="btnVoltar_Click" />
+        <Label x:Name="lblNome" Content="Nome completo :" HorizontalAlignment="Left" Margin="66,56,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="lblRA" Content="RA :" Margin="66,87,695,0" Foreground="White" Height="26" VerticalAlignment="Top"/>
+        <Label x:Name="lblCPF" Content="CPF :" Margin="260,87,496,0" Foreground="White" Height="26" VerticalAlignment="Top"/>
+        <TextBox x:Name="txbNome" Height="26" Margin="173,56,66,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="txbRA" Margin="131,87,538,0" TextWrapping="Wrap" Height="26" VerticalAlignment="Top"/>
+        <TextBox x:Name="txbCPF" Margin="301,87,368,0" TextWrapping="Wrap" Height="26" VerticalAlignment="Top"/>
+        <TextBox x:Name="txbAssunto" Margin="131,118,66,0" TextWrapping="Wrap" Height="26" VerticalAlignment="Top"/>
+        <Label x:Name="lblAssunto" Content="Assunto : " Margin="66,118,666,0" Foreground="White" Height="26" VerticalAlignment="Top"/>
+        <Label x:Name="lblEmail" Content="Seu email :" Margin="429,87,0,0" Foreground="White" Height="26" VerticalAlignment="Top" HorizontalAlignment="Left" Width="67"/>
+        <TextBox x:Name="txbEmail" Height="26" Margin="501,87,66,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label x:Name="lblTexto" Content="Dúvida abaixo :" Margin="66,149,580,0" Foreground="White" Height="26" VerticalAlignment="Top"/>
+        <TextBox x:Name="txbTexto" Margin="66,180,66,335" TextWrapping="Wrap"/>
+        <Button x:Name="btnPPID" Content="Pesquisar ID da Dúvida" HorizontalAlignment="Left" Margin="229,19,0,0" VerticalAlignment="Top" Width="161" Height="32" Click="btnPPID_Click"/>
+        <Label x:Name="lblID" Content="ID : " HorizontalAlignment="Left" Margin="66,19,0,0" VerticalAlignment="Top" Foreground="White" Height="32"/>
+        <TextBox x:Name="txbID" HorizontalAlignment="Left" Height="32" Margin="104,19,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lblTextoR" Content="Responda a Dúvida abaixo : " HorizontalAlignment="Left" Margin="66,399,0,0" VerticalAlignment="Top" Width="174" Foreground="White"/>
+        <TextBox x:Name="txbTextoR" HorizontalAlignment="Left" Height="215" Margin="66,430,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="660"/>
+
+    </Grid>
+</Window>

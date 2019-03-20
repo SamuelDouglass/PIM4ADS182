@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TelaAdmOuvidoria.Apresentacao.frmAEEDF" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Apresentacao\frmAEEDF.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MainWindow" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TelaAdmOuvidoria.Apresentacao.frmPCPI" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAACAEAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Apresentacao\frmPCPI.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MainWindow" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TelaAdmOuvidoria.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Apresentacao\MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Controle" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TelaAdmOuvidoria.DAL.Conexao">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAgAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\Conexao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelaAdmOuvidoria.DAL.RegistrosDAO" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="5.5" Width="1.5" />
+    <InheritanceLine Type="TelaAdmOuvidoria.Modelo.Controle" ManuallyRouted="true">
+      <Path>
+        <Point X="4.75" Y="2.055" />
+        <Point X="4.75" Y="4.063" />
+        <Point X="5.073" Y="4.063" Type="JumpStart" />
+        <Point X="5.24" Y="4.063" Type="JumpEnd" />
+        <Point X="9.5" Y="4.063" />
+        <Point X="9.5" Y="5.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AACAABAAAAAAAAgEAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\RegistrosDAO.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="intRegistrosDAO" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.114" Collapsed="true" />
+  </Class>
+  <Class Name="TelaAdmOuvidoria.Modelo.Controle">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAEAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelo\Controle.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="intRegistrosDAO" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TelaAdmOuvidoria.Modelo.Registros">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAIAAAAAAAgAAABAAAAAAAAAAAAAIAAAAAEAgA=</HashCode>
+      <FileName>Modelo\Registros.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TelaAdmOuvidoria.Modelo.Validacao">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Modelo\Validacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TelaAdmOuvidoria.DAL.intRegistrosDAO">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\intRegistrosDAO.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

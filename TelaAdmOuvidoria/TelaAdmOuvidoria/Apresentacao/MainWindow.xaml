@@ -1,0 +1,15 @@
+﻿<Window x:Class="TelaAdmOuvidoria.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TelaAdmOuvidoria"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FF143061">
+        
+        <Label Content="Tela Administrativa" Margin="181,131,188,0" VerticalAlignment="Top" Height="84" Foreground="#FFD6EA0C" FontSize="48"/>
+        <Button x:Name="btnEnvio" Content="Ir para tela de resposta" HorizontalAlignment="Left" Margin="320,300,0,0" VerticalAlignment="Top" Width="132" Height="40" Click="btnEnvio_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,57 @@
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.csprojAssemblyReference.cache
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\App.g.cs
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria_MarkupCompile.cache
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria_MarkupCompile.lref
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\bin\Debug\TelaAdmOuvidoria.exe.config
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\bin\Debug\TelaAdmOuvidoria.exe
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\bin\Debug\TelaAdmOuvidoria.pdb
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.g.resources
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.Properties.Resources.resources
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.csproj.GenerateResource.cache
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.csproj.CoreCompileInputs.cache
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.exe
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.pdb
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\frmAEEDF.g.cs
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\MainWindow.g.cs
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\frmAEEDF.baml
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\MainWindow.baml
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\frmPCPI.g.cs
+C:\Users\hualt\source\repos\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\frmPCPI.baml
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\bin\Debug\TelaAdmOuvidoria.exe.config
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\bin\Debug\TelaAdmOuvidoria.exe
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\bin\Debug\TelaAdmOuvidoria.pdb
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.csprojAssemblyReference.cache
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\frmAEEDF.g.cs
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\frmPCPI.g.cs
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\MainWindow.g.cs
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\App.g.cs
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria_MarkupCompile.cache
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria_MarkupCompile.lref
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\frmAEEDF.baml
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\frmPCPI.baml
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\MainWindow.baml
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.g.resources
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.Properties.Resources.resources
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.csproj.GenerateResource.cache
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.csproj.CoreCompileInputs.cache
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.exe
+C:\Users\bruun\OneDrive\Área de Trabalho\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.pdb
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\bin\Debug\TelaAdmOuvidoria.exe.config
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\bin\Debug\TelaAdmOuvidoria.exe
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\bin\Debug\TelaAdmOuvidoria.pdb
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.csprojAssemblyReference.cache
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\frmAEEDF.g.cs
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\frmPCPI.g.cs
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\MainWindow.g.cs
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\App.g.cs
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria_MarkupCompile.cache
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria_MarkupCompile.lref
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\frmAEEDF.baml
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\frmPCPI.baml
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\Apresentacao\MainWindow.baml
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.g.resources
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.Properties.Resources.resources
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.csproj.GenerateResource.cache
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.csproj.CoreCompileInputs.cache
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.exe
+C:\Users\bruun\OneDrive\Área de Trabalho\AULAS REVERDAN-2018\Pim\TelaAdmOuvidoria\TelaAdmOuvidoria\obj\Debug\TelaAdmOuvidoria.pdb

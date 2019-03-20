@@ -1,0 +1,22 @@
+﻿<Window x:Class="TelaAdmOuvidoria.Apresentacao.frmAEEDF"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TelaAdmOuvidoria.Apresentacao"
+        mc:Ignorable="d"
+        Title="frmAEEDF" Height="450" Width="800">
+    <Grid Background="#FF143061">
+        <Label Content="Altere abaixo as Dúvidas frequentes e suas respostas :" HorizontalAlignment="Left" Margin="65,10,0,0" VerticalAlignment="Top" Width="320" Foreground="White"/>
+        <Button x:Name="btnVoltar" Content="Voltar" HorizontalAlignment="Left" Margin="10,375,0,0" VerticalAlignment="Top" Width="83" Height="34"/>
+        <Button x:Name="btnAtualizar" Content="Atualizar" HorizontalAlignment="Left" Margin="691,375,0,0" VerticalAlignment="Top" Width="91" Height="34" Click="btnAtualizar_Click"/>
+        <Label x:Name="lblper" Content="Altere ou adicione a pergunta aqui :" HorizontalAlignment="Left" Margin="65,87,0,0" VerticalAlignment="Top" Width="211" Foreground="White"/>
+        <Label x:Name="lblres" Content="Altere ou adicione a respota aqui : " HorizontalAlignment="Left" Margin="65,192,0,0" VerticalAlignment="Top" Width="211" Foreground="White"/>
+        <TextBox x:Name="txbPer" HorizontalAlignment="Left" Height="69" Margin="65,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="659"/>
+        <TextBox x:Name="txbRes" HorizontalAlignment="Left" Height="70" Margin="65,223,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="659"/>
+        <Label x:Name="lblPID" Content="Pesquise o ID da Dúvida : " HorizontalAlignment="Left" Margin="65,45,0,0" VerticalAlignment="Top" Height="30" Foreground="White" Width="164"/>
+        <TextBox x:Name="txbIDP" HorizontalAlignment="Left" Height="30" Margin="234,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151"/>
+        <Button x:Name="btnPID" Content="Pesquisar por ID" HorizontalAlignment="Left" Margin="405,45,0,0" VerticalAlignment="Top" Width="127" Height="30" OpacityMask="Black" BorderBrush="#FF6A6A6A"/>
+
+    </Grid>
+</Window>
